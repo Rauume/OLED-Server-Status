@@ -1,0 +1,9 @@
+{
+    "urls": [
+        ["__main__.py", "github:Rauume/OLED-Server-Status/__main__.py"]
+    ],
+    "deps": [
+        ["ssd1306","main"]
+    ],
+    "version": "0.1"
+}
